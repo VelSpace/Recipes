@@ -1,0 +1,13 @@
+content:
+- Runtime type checking
+- HashMap
+- hashCode() and equals()
+- Generic methods
+- Regexes in programs
+- LocalDate
+- LocalDateTime
+- LocalTime
+- Comparing dates and time
+- The utility class Collections
+- Abstract class
+- Builder
